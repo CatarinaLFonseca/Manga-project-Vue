@@ -7,7 +7,7 @@
             <a href="">Contato</a>
             <a href="">Localização</a>
         </nav>
-        <img src="imagens/tituloPagina.png" alt="Logo da pagina" id="logo">
+        <img src="/imagens/tituloPagina.png" alt="Logo da pagina" id="logo">
     </header>
 </template>
 
